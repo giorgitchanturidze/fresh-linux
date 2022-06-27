@@ -31,8 +31,8 @@ sudo apt install vim
 * Visual Studio Code: Open File → Preferences → Settings (PC) or Code → Preferences → Settings (Mac), enter `terminal.integrated.fontFamily` in the search box at the top of Settings tab and set the value below to `MesloLGS NF`. 
 * Edit your `~/.zshrc` and set `ZSH_THEME="powerlevel10k/powerlevel10k"`
 * [Zsh syntax highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md)
-* [Zsh autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md)
-    Pasete at the bottom of the ~/.zshrc
+* [Zsh autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md).
+Pasete at the bottom of the ~/.zshrc
 ```
 source /home/giorgi/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 ```
