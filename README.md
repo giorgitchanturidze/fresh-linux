@@ -32,7 +32,7 @@ sudo apt install vim
 * Edit your `~/.zshrc` and set `ZSH_THEME="powerlevel10k/powerlevel10k"`
 * [Zsh syntax highlighting](https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md)
 * [Zsh autosuggestions](https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md).
-Pasete at the bottom of the ~/.zshrc
+* Paste at the bottom of the ~/.zshrc
 ```
 source /home/giorgi/.zsh/zsh-autosuggestions/zsh-autosuggestions.zsh
 ```
