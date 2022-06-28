@@ -19,6 +19,11 @@ sudo apt install curl
 ```
 sudo apt install git-all
 ```
+* Installing npm 18.x
+```
+curl -sL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+sudo apt install nodejs
+```
 * Installing Vim
 ```
 sudo apt install vim
