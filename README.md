@@ -3,6 +3,15 @@
 ```
 sudo apt update && sudo apt upgrade
 ```
+* Install copy paste tools
+```
+sudo apt install parcellite
+sudo apt install copyq
+```
+* Install take screenshot tool
+```
+sudo apt install flameshot
+```
 * Installing Tilix
 ```
 sudo apt install tilix
