@@ -8,6 +8,10 @@ sudo apt update && sudo apt upgrade
 sudo apt install parcellite
 sudo apt install copyq
 ```
+* Install z tool
+```
+https://github.com/agkozak/zsh-z
+```
 * Install take screenshot tool
 ```
 sudo apt install flameshot
